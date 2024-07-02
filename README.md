@@ -16,6 +16,8 @@ Researcher at Universitas Airlangga, Surabaya
 
 <a href="https://orcid.org/0000-0003-3085-8668" target="_blank">ORCID Author ID: 0000-0003-3085-8668</a>
 
+<a href="https://scholar.unair.ac.id/en/persons/mohammad-ghani" target="_blank">Scholar UNAIR</a>
+
 ### Publications
 <a href="https://doi.org/10.1016/j.jobb.2024.04.001" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a>
 
