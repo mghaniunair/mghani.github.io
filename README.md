@@ -1,4 +1,5 @@
-# Data-Driven Dynamical Systems
+### Expertise 
+Data-Driven Dynamical Systems
 
 
 ### Education
