@@ -6,5 +6,4 @@ Ph.D. in Applied Mathematics
 
 
 ### Work Experience
-Lecturer at the Faculty of Advanced Technology and Multidiscipline
-Universitas Airlangga, Surabaya
+Lecturer at the Faculty of Advanced Technology and Multidiscipline, Universitas Airlangga, Surabaya
