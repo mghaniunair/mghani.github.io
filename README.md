@@ -5,7 +5,7 @@ He works in the broad area of Partial Differential Equations and Dynamical Syste
 Ph.D. in Applied Mathematics
 
 ### Work Experience
-Lecturer at the Faculty of Advanced Technology and Multidiscipline, Universitas Airlangga, Surabaya
+Researcher at Universitas Airlangga, Surabaya
 
 ### Publications
 (<a href="https://doi.org/10.1016/j.jobb.2024.04.001" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a>)
