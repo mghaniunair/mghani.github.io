@@ -4,6 +4,9 @@ He works in the broad area of Partial Differential Equations and Dynamical Syste
 ### Education
 Ph.D. in Applied Mathematics
 
+### Email
+mohammad.ghani@ftmm.unair.ac.id
+
 ### Work Experience
 Researcher at Universitas Airlangga, Surabaya
 
