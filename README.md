@@ -25,8 +25,11 @@ Researcher at Universitas Airlangga, Surabaya
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a>
 
 Inflation is one of macroeconomic issues in Indonesia that needs to be controlled. Inflation could happen because of widespread increases in the cost of goods and services. Annual inflation rate in Indonesia on 2008 to 2023 are quite fluctuating and several periods are not achieved inflation target yet. One of the ways to control inflation is by making predictions for the upcoming period. Java Island is the biggest contributor on economy and Gross Domestic Product (GDP) in Indonesia so it can be considered as general indicator to measure overall inflation rate of Indonesia. Thus, data used in this study is monthly inflation at each province in Java Island from January 2008 to December 2023. This study using two methods, Autoregressive Integrated Moving Average (ARIMA) for univariate time series prediction and Generalized Space-Time ARIMA (GSTARIMA) for multivariate time series prediction with a spatial factor. The results of both models will be compared to determine which model has better accuracy. Based on RMSE value, GSTARIMA model has least average RMSE value, which is 0.113 compared with ARIMA model which has average RMSE value 0.319 thus it can conclude that spatial factors addition could increase accuracy on inflation prediction in Java Island.
+
 •This paper purposes to get Java Island's inflation rate prediction to determine better policy on controlling cost of goods and services.
+
 •Best model using GSTARIMA methods is GSTARMA(1,1) with distance invese matrix that indicate that coordinate point of each location increase performance of inflation rate prediction.
+
 •The result indicate GSTARIMA has better accuracy than ARIMA for inflation prediction in Java Island based on RMSE value.
 
 <a href="https://doi.org/10.1016/j.jobb.2024.04.001" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a>
