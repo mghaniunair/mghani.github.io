@@ -23,6 +23,8 @@ Researcher at Universitas Airlangga, Surabaya
 
 <a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a>
 
+<a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a>
+
 ### Publications
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a>
 
