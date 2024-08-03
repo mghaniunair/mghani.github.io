@@ -1,5 +1,3 @@
-<img src="https://github.com/mghaniunair/Mathematical-models-of-biological-invasions/blob/main/Wallpaper%20Biological%20Invasion.png"/>
-
 ### About 
 He works in the broad area of Partial Differential Equations and Dynamical Systems, with particular emphasis on the stability of travelling waves in the hyperbolic-parabolic system, the local well-posedness of Boussinesq equations in optimal Sobolev space, and dynamical systems for infectious disease problems.
 
